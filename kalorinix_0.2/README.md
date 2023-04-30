@@ -6,7 +6,7 @@ Include [Bootstrap](https://getbootstrap.com)'s source Sass with [React](https:/
 
 ```sh
 git clone https://github.com/itandersson/kalorinix.git
-cd examples/react-nextjs/
+cd kalorinix/kalorinix_0.2/
 npm install
 npm start
 ```
